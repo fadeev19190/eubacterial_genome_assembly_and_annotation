@@ -46,9 +46,9 @@ st.markdown("""
 # Title
 st.title("Eubacterial Genome Assembly and Annotation")
 
-st.markdown("""Student: Artem Fadeev
+st.markdown("""Student: Artem Fadeev""")
 
-            Professor: Jan Pačes""")
+st.markdown("""Professor: Jan Pačes""")
 
 # Introduction
 st.markdown("""
