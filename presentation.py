@@ -48,7 +48,6 @@ st.title("Eubacterial Genome Assembly and Annotation")
 
 st.markdown("""Student: Artem Fadeev
 
-
             Professor: Jan Pačes""")
 
 # Introduction
